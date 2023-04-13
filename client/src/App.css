@@ -1,0 +1,62 @@
+:root {
+  background-color: #1034A6;
+  font-family: 'Lato', sans-serif;
+}
+body {
+  background-color: #1034A6;
+  font-family: 'Lato', sans-serif;
+}
+
+h1 {
+  color: white;
+}
+
+img {
+  max-width: 17%;
+  flex-basis: 40%
+}
+
+.main-container {
+  background-color: #1034A6;
+}
+
+.about-container {
+  background-color: #1034A6;
+  text-align: center;
+}
+
+.headshot-container {
+  display: flex;
+  align-items: center;
+  color: #fff;
+  font-size: 15px;
+  padding-left: 30px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+.skill {
+  /* border-style: solid; */
+  background-color: #003399;
+  color: #fff;
+  margin: 20px;
+  text-align: center;
+  box-shadow: 5px 5px 10px 0px rgba(102, 166, 234, 0.4) ;
+  -webkit-box-shadow: 5px 5px 10px 0px rgba(102, 166, 234, 0.4) ;
+  -moz-box-shadow: 5px 5px 10px 0px rgba(102, 166, 234, 0.4) ;
+  border-radius: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+h4:hover {
+ color: rgba(102, 166, 234, 0.4) ;
+}
